@@ -1,4 +1,5 @@
 # d-ui
+基于elementui 二次封装的组件库
 
 ## Project setup
 ```
